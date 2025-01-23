@@ -11,9 +11,9 @@ I am Aliki Vasili, a BSc in Computer Science and MSc in Artificial Intelligence 
 ### Steganography and Image Processing
 - bmpSteganography: A comprehensive library for editing .bmp image files, featuring functions for: Encrypting and decrypting images and text within .bmp files, Applying grayscale filters and modifying .bmp file headers., Converting text to images and vice versa.
 ## 🌍 Let’s Connect
-📫 Email: alikivasili@outlook.com
-💼 LinkedIn: Aliki Vasili
-📝 GitHub: github.com/AlikiVasili
+- 📫 Email: alikivasili@outlook.com
+- 💼 LinkedIn: Aliki Vasili
+- 📝 GitHub: github.com/AlikiVasili
 
 
 

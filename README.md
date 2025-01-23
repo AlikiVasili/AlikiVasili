@@ -1,4 +1,6 @@
 ## Welcome to My GitHub Profile
+I am Aliki Vasili, a BSc in Computer Science and MSc in Artificial Intelligence graduate. My passion lies in leveraging AI, machine learning, and NLP to develop innovative technologies, particularly in the healthcare sector. This GitHub profile showcases my technical journey, featuring diverse projects that aim to make a meaningful impact in the world through cutting-edge solutions.
+# What you can find here
 
 
 

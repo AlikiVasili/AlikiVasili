@@ -10,6 +10,7 @@ I am Aliki Vasili, a BSc in Computer Science and MSc in Artificial Intelligence 
 - Spoiler Detection in Movie Reviews: An NLP-based system that identifies spoilers in movie reviews using text classification techniques.
 ### Steganography and Image Processing
 - bmpSteganography: A comprehensive library for editing .bmp image files, featuring functions for: Encrypting and decrypting images and text within .bmp files, Applying grayscale filters and modifying .bmp file headers., Converting text to images and vice versa.
+## 🚀 What You’ll Find Here
 ##🌍 Let’s Connect
 📫 Email: alikivasili@outlook.com
 💼 LinkedIn: Aliki Vasili
